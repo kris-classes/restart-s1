@@ -31,6 +31,19 @@ Click the pencil at the top right and add your first name here.
 * Storage - Ash
 * VR & AR - Anf
 
+* 11 - 40: Anf
+* 41 - 70: Ash
+* 71 - 100: Burty
+* 101 - 130: Chris
+* 131 - 160: Jocelynn
+* 161 - 190: Kevin
+* 191 - 220: Kris
+* 221 - 250: Mal
+* 251 - 280: Naomi
+* 281 - 310: Rhind
+* 311 - 340: Sunny
+* 341 - 370: Will
+
 
 ### Programming
 
